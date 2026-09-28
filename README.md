@@ -1,5 +1,6 @@
 
 【翻墙 机场梯子推荐 此页面将持续更新】
+
 由于不可描述的原因，很多地方都有墙的的存在。这就导致我们没办法用谷歌、Twitter、Instagram、Youtube、Netflix、ChatGPT等等优秀的平台。
 
 因此，我们需要翻墙，需要[ 科学](https://xc.luniu8.com/?code=2JJeO4OU)上网，这样就可以自由浏览墙外的资源，更好的学习，提升自我。
@@ -40,19 +41,22 @@
 创建一个全新的 Apple 账户（中国大陆）
 
 <img width="720" height="380" alt="Image" src="https://github.com/user-attachments/assets/eb36dd57-8d9e-47cc-81ea-7f63489789fb" />
+
 在你手机上的 App Store 登录刚刚注册好的Apple ID，因为是新 Apple ID 第一次登录，所以会有图中的提示，点「检查」进入下一步，切换 APPLE ID 时，打开 AppStore ，点击右上角的头像，拉到最底部点击退出登陆，再重新登陆即可，不要在设置中切换 iCLOUD 账户。
 
 <img width="720" height="752" alt="Image" src="https://github.com/user-attachments/assets/62f639f9-e675-4d7e-b89d-9348c01c0ec7" />
+
 选中「同意条款和条件」，点击「下一页」，选择付款方式为「无」，填好必填信息，再点「下一页」完成创建，然后在 App Store 退出你的 Apple ID
 
 <img width="720" height="753" alt="Image" src="https://github.com/user-attachments/assets/92fb96cc-c8ac-47c0-b9fe-c85de740e1e4" />
-开始修改地区
 
-用电脑打开 https://account.apple.com/ ，登陆刚刚注册的 Apple ID ，计算机硬件
+开始修改地区，用电脑打开 https://account.apple.com/ ，登陆刚刚注册的 Apple ID ，计算机硬件
 
 点击左侧的个人信息后，再点击右侧的国家或地区进行切换。
 
+
 <img width="720" height="367" alt="Image" src="https://github.com/user-attachments/assets/c89e0289-217f-4ce6-b9c3-b77d09dde7f6" />
+
 切换国家或地区选择「香港」，点击「继续更新」（当然您也可以选择您喜欢的国家或地区）。计算机科学
 
 现在 APPLE 更新了政策，很多地方需要手机短信验证，因此推荐选择 香港 地区，可以使用 +86 号码验证。
