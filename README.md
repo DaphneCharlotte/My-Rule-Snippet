@@ -16,7 +16,7 @@
 而能够通过代理服务器访问外网的软件，通常被成为梯子、代理软件，也叫翻墙软件。
 由上述原理介绍，可以得到，要想实现科学上网，需要 代理服务器 + 翻墙软件 来实现。
 代理服务器
-购买代理服务的话，我个人推荐一支红杏的代理服务，它是銘佑科技（香港）有限公司（也是老薛主机，不会跑路型）推出的网络加速器服务，基于 Trojan 协议的科学上网方式，该协议会将您需要代理的网络[ 数据](https://tanqingbo.cn/mobile-vpn/#)伪装成 HTTPS 协议的正常网络数据，以通过防火墙的检测和封锁，连接速度快，它会帮助你在互联网上冲浪时保护你的隐私和安全。
+购买代理服务的话，我个人推荐一支红杏的代理服务，它是銘佑科技（香港）有限公司（也是老薛主机，不会跑路型）推出的网络加速器服务，基于 Trojan 协议的科学上网方式，该协议会将您需要代理的网络[ 数据]伪装成 HTTPS 协议的正常网络数据，以通过防火墙的检测和封锁，连接速度快，它会帮助你在互联网上冲浪时保护你的隐私和安全。
 
 支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理软件。
 
@@ -57,14 +57,18 @@
 
 <img width="720" height="367" alt="Image" src="https://github.com/user-attachments/assets/c89e0289-217f-4ce6-b9c3-b77d09dde7f6" />
 
+
 切换国家或地区选择「香港」，点击「继续更新」（当然您也可以选择您喜欢的国家或地区）。计算机科学
 
 现在 APPLE 更新了政策，很多地方需要手机短信验证，因此推荐选择 香港 地区，可以使用 +86 号码验证。
 
+
 <img width="720" height="458" alt="Image" src="https://github.com/user-attachments/assets/f8c9ad49-d2e6-4b43-8278-7712b0e3911e" />
+
 付款方式选择 无 然后设置其他信息，然后点击右上角的「保存」
 
 <img width="720" height="607" alt="Image" src="https://github.com/user-attachments/assets/c6f3df53-95f0-4ee4-a804-7ea4da9071ba" />
+
 然后在 App Store 重新登录您的海外 Apple ID 即可搜索下载客户端了。手机
 
 下载好客户端之后，然后在在你购买代理服务器的界面复制订阅链接(在产品详情页面获取)
@@ -73,26 +77,33 @@
 [直接点击下载](https://xc.luniu8.com/?code=2JJeO4OU)
 添加节点(通过订阅链接)：
 安装后打开首页，点击配置：短信和即时消息
+
 <img width="500" height="1049" alt="Image" src="https://github.com/user-attachments/assets/dee0ec58-92ce-4d8f-aae1-abfc526480b5" />
+
 点击新配置，接着点击 URL (从 URL 导入)：
+
 <img width="500" height="288" alt="Image" src="https://github.com/user-attachments/assets/79dd0546-174f-4663-9e8b-97aee41a1617" />
+
 在你购买代理服务器的界面复制 Clash 订阅链接(在产品详情页面获取)，如下：
 
 <img width="720" height="663" alt="Image" src="https://github.com/user-attachments/assets/b9e647b1-611d-449c-a6a1-422efa822336" />
+
 然后粘贴到URL处，再点击右上角的保存：
 
 <img width="500" height="631" alt="Image" src="https://github.com/user-attachments/assets/a40cfe1b-3cb0-4ae5-98a7-1d31d668fb97" />
+
 下载完成后选中配置文件，然后返回首页点击 点此启动 开始使用：
 
 <img width="500" height="288" alt="Image" src="https://github.com/user-attachments/assets/f6e92cf7-476b-41a5-af59-7876cd3fd7f2" />
 
-第一次启动时会请求 VPN 权限，需要点击确定允许。VPN 与远程访问
 
+第一次启动时会请求 VPN 权限，需要点击确定允许。VPN 与远程访问
 (该弹窗为系统弹窗，与客户端无关，如果无法点击基本上是其他 APP 有在使用悬浮窗权限导致，或者是一些系统的护眼模式)
 
 <img width="500" height="404" alt="Image" src="https://github.com/user-attachments/assets/6e4bcab8-6c15-44a3-be2c-d80bea7e5796" />
 
 <img width="500" height="1049" alt="Image" src="https://github.com/user-attachments/assets/d06ffdde-671e-449c-b008-9244941f3061" />
+
 
 如果需要切换节点，请点开第二个 代理 选项即可。网络之后便可以自由的访问Google、Twitter、Instagram、Youtube、Netflix、ChatGPT等等这些优秀平台了。
 # 一个优质的魔法梯子（机场）需要具备以下核心要素：
