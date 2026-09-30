@@ -125,8 +125,8 @@
 
 ---
 
-### 2. [西游云](https://d.xiyou666.xyz/?code=3mcCkeLW) – 极致性能与纯净原生 IP 梯子
-* **官网地址**：[点击直达](https://d.xiyou666.xyz/?code=3mcCkeLW)
+### 2. [西游云](https://e.xiyou666.xyz/?code=3mcCkeLW) – 极致性能与纯净原生 IP 梯子
+* **官网地址**：[点击直达](https://e.xiyou666.xyz/?code=3mcCkeLW)
 * **特点**：由独立海外团队运营，采用全 CN2 GIA / BGP / IEPL 专线，性能表现稳居第一梯队。
 * **优势**：
   * 配置大量纯净原生 IP，风控权重极低。
