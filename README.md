@@ -114,8 +114,8 @@
 完善的售后支持，遇到问题能及时响应解决。
 支持国内常用支付方式（支付宝/微信）。
 基于以上标准，本站经过长期测试与使用，为您精选出最值得信赖的”梯子”服务商：
-### 1. [苏菲家宽](https://www.sufe.pro/#/register?code=VA1k1GVa) – 真实住宅 IP 与高阶防风控梯子
-* **官网地址**：[点击直达](https://www.sufe.pro/#/register?code=VA1k1GVa)
+### 1. [苏菲家宽](https://www.sufe.pro/register?code=VA1k1GVa) – 真实住宅 IP 与高阶防风控梯子
+* **官网地址**：[点击直达](https://www.sufe.pro/register?code=VA1k1GVa)
 * **特点**：专为高风控环境与严苛网络限制设计，提供稀缺的真实住宅家庭宽带（Residential IP）落地。
 * **优势**：
   * 落地 IP 纯净，在海外平台眼中与当地真实家用网络无异。
