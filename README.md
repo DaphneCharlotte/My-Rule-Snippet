@@ -5,7 +5,7 @@
 
 由于不可描述的原因，很多地方都有墙的的存在。这就导致我们没办法用谷歌、Twitter、Instagram、Youtube、Netflix、ChatGPT等等优秀的平台。
 
-因此，我们需要翻墙，需要[科学](https://e.xiyou666.xyz/?code=3mcCkeLW)上网，这样就可以自由浏览墙外的资源，更好的学习，提升自我。
+因此，我们需要翻墙，需要[科学](https://www.sufe.us/register?code=VA1k1GVa)上网，这样就可以自由浏览墙外的资源，更好的学习，提升自我。
 
 既然墙阻挡了我们直接访问国际互联网上的某些特定服务，那么我们只能绕行了。方法就是使用梯子工具：
 
@@ -115,8 +115,8 @@
 完善的售后支持，遇到问题能及时响应解决。
 支持国内常用支付方式（支付宝/微信）。
 基于以上标准，本站经过长期测试与使用，为您精选出最值得信赖的”梯子”服务商：
-### 1. [苏菲家宽](https://www.sufe.pro/register?code=VA1k1GVa) – 真实住宅 IP 与高阶防风控梯子
-* **官网地址**：[点击直达](https://www.sufe.pro/register?code=VA1k1GVa)
+### 1. [苏菲家宽](https://www.sufe.us/register?code=VA1k1GVa) – 真实住宅 IP 与高阶防风控梯子
+* **官网地址**：[点击直达](https://www.sufe.us/register?code=VA1k1GVa)
 * **特点**：专为高风控环境与严苛网络限制设计，提供稀缺的真实住宅家庭宽带（Residential IP）落地。
 * **优势**：
   * 落地 IP 纯净，在海外平台眼中与当地真实家用网络无异。
